@@ -1,0 +1,8 @@
+[
+    {
+        "nome_lanche": "x burguer",
+        "quantidade": 5,
+        "preco_unitario": 25.0,
+        "preco_total": 125.0
+    }
+]
